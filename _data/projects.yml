@@ -14,10 +14,11 @@
   duration: 2023.1 &mdash; 2023.2
   description: It collects online price information using various APIs and web scraping, and delivers price information to users through the app. Users can choose and purchase the goods they want.
 
-
-
+# jazznotes.io
 - project: Voice Data Emotion Analysis Project (web & machine-learning)
   role: Front & Backend(Django)
-  duration: 2023.04 &mdash; 2022.05
+  duration: 2023.04 &mdash; 2023.05
+  # url: "#"
   description: It is a project with an industry (Honeymind) as a graduation capstone. Users can record and send voice to the server, which allows them to emotionally analyze recorded voice through machine learning models and view the results through graphs on web pages.
 He won first place out of 27 teams.
+
