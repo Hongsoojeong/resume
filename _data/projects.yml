@@ -1,18 +1,27 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
+# mbti 프로젝트
 - project: MBTI (Android)
   role: PM & Front & Backend
   duration: 2022.01 &mdash; 2022.2
   # url: "#"
   description: Check your mbti through the mbti test and  chat function is implemented that allows you to talk to the mbti you want.
 
-# Springfield Community Outreach Group
+# 라고 할 때 살걸 프로젝트
 - project: simulated investment application (iOS)
-  role: Front & backend connection
-  duration: 2023.1 &mdash; 2023.2
+  role: Front & Backend connection
+  duration: 2023.01 &mdash; 2023.02
   description: It collects online price information using various APIs and web scraping, and delivers price information to users through the app. Users can choose and purchase the goods they want.
+
+# 졸업 프로젝츠
+- project : Emotional analysis with voice data (web & machine-learning)
+  role : Front & Backend(Django) & Data preprocessing
+  duration : 2023.03 &mdash; 2023.05
+  description : With an industry (HoneyMind) as a graduation capstone. Users can record and send voice to the server, which allows them to emotionally analyze recorded voice through machine learning models and view the results through graphs on web pages.
+  
+
+
 
 
 
